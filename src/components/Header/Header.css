@@ -1,0 +1,21 @@
+.Header {
+    background-color: #519872;
+    align-self: stretch;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.Header-text {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 50px
+}
+
+.Header-img {
+    height: 34px;
+    width: auto;
+    margin-right: 10px;
+}

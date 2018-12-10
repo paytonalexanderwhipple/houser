@@ -1,0 +1,17 @@
+.Step-button-right {
+    position: absolute;
+    right: 0;
+    background-color: #3B5249;
+    color: #ffffff;
+    font-size: 12px;
+}
+.Step-button-left {
+    position: absolute;
+    left: 0;
+    background-color: #3B5249;
+    color: #ffffff;
+    font-size: 12px;
+}
+.Submit {
+    bottom: -20px;
+}

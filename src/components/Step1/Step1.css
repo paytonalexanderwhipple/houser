@@ -1,0 +1,13 @@
+.Step {
+    position: relative;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: flex-start;
+}
+.Step1-button {
+    position: absolute;
+    right: 0;
+    background-color: #3B5249;
+    color: #ffffff;
+    font-size: 12px;
+}

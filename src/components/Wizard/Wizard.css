@@ -1,0 +1,12 @@
+.Wizard {
+    background-color: #E5F4EC;
+    padding: 15px;
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+}
+.Wizard-button {
+    background-color: #FEC2C2;
+    font-size: 15px;
+
+}
